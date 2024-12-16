@@ -1,5 +1,5 @@
 
-# How to Create a Dynamic Watch Face Using Tag Expressions in Watch Face Studio
+# How to Create a Watch Face Using Tag Expressions in Watch Face Studio
 
 Designing watch faces is an art that blends creativity with technology. With Watch Face Studio, you can go beyond static designs and add interactivity using **Tag Expressions**. These expressions allow you to create dynamic, real-time effects by leveraging the watch's data, such as time, battery level, and user activity. In this blog, we’ll guide you step-by-step on how to create a watch face that displays battery levels dynamically—perfect for designers looking to craft engaging and functional watch faces.
 

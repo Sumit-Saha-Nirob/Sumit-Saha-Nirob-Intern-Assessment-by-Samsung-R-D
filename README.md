@@ -1,1 +1,0 @@
-# Sumit-Saha-Nirob-Intern-Assessment-by-Samsung-R-D
